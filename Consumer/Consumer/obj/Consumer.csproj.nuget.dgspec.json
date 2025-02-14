@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Hamkaran_test\\Log_Message_Broker\\Consumer\\Consumer\\Consumer.csproj": {}
+    "G:\\Github_Project\\Message_Broker_SG\\Consumer\\Consumer\\Consumer.csproj": {}
   },
   "projects": {
-    "G:\\Hamkaran_test\\Log_Message_Broker\\Consumer\\Consumer\\Consumer.csproj": {
+    "G:\\Github_Project\\Message_Broker_SG\\Consumer\\Consumer\\Consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Hamkaran_test\\Log_Message_Broker\\Consumer\\Consumer\\Consumer.csproj",
+        "projectUniqueName": "G:\\Github_Project\\Message_Broker_SG\\Consumer\\Consumer\\Consumer.csproj",
         "projectName": "Consumer",
-        "projectPath": "G:\\Hamkaran_test\\Log_Message_Broker\\Consumer\\Consumer\\Consumer.csproj",
+        "projectPath": "G:\\Github_Project\\Message_Broker_SG\\Consumer\\Consumer\\Consumer.csproj",
         "packagesPath": "C:\\Users\\Hossein\\.nuget\\packages\\",
-        "outputPath": "G:\\Hamkaran_test\\Log_Message_Broker\\Consumer\\Consumer\\obj\\",
+        "outputPath": "G:\\Github_Project\\Message_Broker_SG\\Consumer\\Consumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hossein\\AppData\\Roaming\\NuGet\\NuGet.Config",

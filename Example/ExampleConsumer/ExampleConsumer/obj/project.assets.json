@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Hamkaran_test\\Log_Message_Broker\\Example\\ExampleConsumer\\ExampleConsumer\\ExampleConsumer.csproj",
+      "projectUniqueName": "G:\\Github_Project\\Message_Broker_SG\\Example\\ExampleConsumer\\ExampleConsumer\\ExampleConsumer.csproj",
       "projectName": "ExampleConsumer",
-      "projectPath": "G:\\Hamkaran_test\\Log_Message_Broker\\Example\\ExampleConsumer\\ExampleConsumer\\ExampleConsumer.csproj",
+      "projectPath": "G:\\Github_Project\\Message_Broker_SG\\Example\\ExampleConsumer\\ExampleConsumer\\ExampleConsumer.csproj",
       "packagesPath": "C:\\Users\\Hossein\\.nuget\\packages\\",
-      "outputPath": "G:\\Hamkaran_test\\Log_Message_Broker\\Example\\ExampleConsumer\\ExampleConsumer\\obj\\",
+      "outputPath": "G:\\Github_Project\\Message_Broker_SG\\Example\\ExampleConsumer\\ExampleConsumer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hossein\\AppData\\Roaming\\NuGet\\NuGet.Config",

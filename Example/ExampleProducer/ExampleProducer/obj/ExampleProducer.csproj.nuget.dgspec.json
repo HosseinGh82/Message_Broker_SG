@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Hamkaran_test\\Log_Message_Broker\\Example\\ExampleProducer\\ExampleProducer\\ExampleProducer.csproj": {}
+    "G:\\Github_Project\\Message_Broker_SG\\Example\\ExampleProducer\\ExampleProducer\\ExampleProducer.csproj": {}
   },
   "projects": {
-    "G:\\Hamkaran_test\\Log_Message_Broker\\Example\\ExampleProducer\\ExampleProducer\\ExampleProducer.csproj": {
+    "G:\\Github_Project\\Message_Broker_SG\\Example\\ExampleProducer\\ExampleProducer\\ExampleProducer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Hamkaran_test\\Log_Message_Broker\\Example\\ExampleProducer\\ExampleProducer\\ExampleProducer.csproj",
+        "projectUniqueName": "G:\\Github_Project\\Message_Broker_SG\\Example\\ExampleProducer\\ExampleProducer\\ExampleProducer.csproj",
         "projectName": "ExampleProducer",
-        "projectPath": "G:\\Hamkaran_test\\Log_Message_Broker\\Example\\ExampleProducer\\ExampleProducer\\ExampleProducer.csproj",
+        "projectPath": "G:\\Github_Project\\Message_Broker_SG\\Example\\ExampleProducer\\ExampleProducer\\ExampleProducer.csproj",
         "packagesPath": "C:\\Users\\Hossein\\.nuget\\packages\\",
-        "outputPath": "G:\\Hamkaran_test\\Log_Message_Broker\\Example\\ExampleProducer\\ExampleProducer\\obj\\",
+        "outputPath": "G:\\Github_Project\\Message_Broker_SG\\Example\\ExampleProducer\\ExampleProducer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hossein\\AppData\\Roaming\\NuGet\\NuGet.Config",

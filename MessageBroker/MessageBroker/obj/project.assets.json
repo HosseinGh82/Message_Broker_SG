@@ -426,11 +426,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Hamkaran_test\\Log_Message_Broker\\MessageBroker\\MessageBroker\\MessageBroker.csproj",
+      "projectUniqueName": "G:\\Github_Project\\Message_Broker_SG\\MessageBroker\\MessageBroker\\MessageBroker.csproj",
       "projectName": "MessageBroker",
-      "projectPath": "G:\\Hamkaran_test\\Log_Message_Broker\\MessageBroker\\MessageBroker\\MessageBroker.csproj",
+      "projectPath": "G:\\Github_Project\\Message_Broker_SG\\MessageBroker\\MessageBroker\\MessageBroker.csproj",
       "packagesPath": "C:\\Users\\Hossein\\.nuget\\packages\\",
-      "outputPath": "G:\\Hamkaran_test\\Log_Message_Broker\\MessageBroker\\MessageBroker\\obj\\",
+      "outputPath": "G:\\Github_Project\\Message_Broker_SG\\MessageBroker\\MessageBroker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hossein\\AppData\\Roaming\\NuGet\\NuGet.Config",

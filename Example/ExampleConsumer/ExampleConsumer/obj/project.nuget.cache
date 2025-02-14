@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t6ksdwtrLaN4pV0ucchOJISG++OyLnsFmF7D6RSaJCd/xnuvJ68ymBVLW06BVVvkyrduoIMrztYyBSpPqOKDYg==",
+  "dgSpecHash": "4Ha0J578eW9WY83a8QqGaeCGYrvxCiAz4wy7ykpqsSUpNDoIbfdVFXU59kzV00HI6RcoFnt2LR3USiSuQyEaTQ==",
   "success": true,
-  "projectFilePath": "G:\\Hamkaran_test\\Log_Message_Broker\\Example\\ExampleConsumer\\ExampleConsumer\\ExampleConsumer.csproj",
+  "projectFilePath": "G:\\Github_Project\\Message_Broker_SG\\Example\\ExampleConsumer\\ExampleConsumer\\ExampleConsumer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
