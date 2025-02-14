@@ -1,0 +1,292 @@
+2025-02-14 22:57:00 [INFO] Messages loaded from file.
+2025-02-14 22:57:00 [INFO] Message added to queue: string
+2025-02-14 22:57:00 [INFO] Message saved to file: string
+2025-02-14 22:57:00 [INFO] Message sent successfully: string
+2025-02-14 22:59:17 [INFO] Messages loaded from file.
+2025-02-14 22:59:17 [INFO] Message deleted from queue: string
+2025-02-14 22:59:17 [INFO] Message deleted from file: string
+2025-02-14 22:59:17 [INFO] Message received: string
+2025-02-14 23:00:17 [INFO] Messages loaded from file.
+2025-02-14 23:00:17 [WARNING] No messages in queue.
+2025-02-14 23:00:17 [WARNING] No messages available to receive.
+2025-02-14 23:02:23 [INFO] Messages loaded from file.
+2025-02-14 23:02:23 [INFO] Message added to queue: string
+2025-02-14 23:02:23 [INFO] Message saved to file: string
+2025-02-14 23:02:23 [INFO] Message sent successfully: string
+2025-02-14 23:02:28 [INFO] Message added to queue: string
+2025-02-14 23:02:28 [INFO] Message saved to file: string
+2025-02-14 23:02:28 [INFO] Message sent successfully: string
+2025-02-14 23:05:32 [INFO] Messages loaded from file.
+2025-02-14 23:05:32 [WARNING] Received an invalid message.
+2025-02-14 23:12:50 [INFO] Messages loaded from file.
+2025-02-14 23:12:50 [INFO] Message added to queue. Message: {"Id":3,"Name":"Yasi","Degree":95}
+2025-02-14 23:12:50 [INFO] Message added to queue. Message: {"Id":2,"Name":"Sara","Degree":88}
+2025-02-14 23:12:50 [INFO] Message added to queue. Message: {"Id":1,"Name":"Hossein","Degree":90}
+2025-02-14 23:12:50 [INFO] Message saved to file. Message: {"Id":3,"Name":"Yasi","Degree":95}
+2025-02-14 23:12:50 [INFO] Message sent successfully: {"Id":3,"Name":"Yasi","Degree":95}
+2025-02-14 23:12:50 [INFO] Message saved to file. Message: {"Id":2,"Name":"Sara","Degree":88}
+2025-02-14 23:12:50 [INFO] Message sent successfully: {"Id":2,"Name":"Sara","Degree":88}
+2025-02-14 23:12:50 [INFO] Message saved to file. Message: {"Id":1,"Name":"Hossein","Degree":90}
+2025-02-14 23:12:50 [INFO] Message sent successfully: {"Id":1,"Name":"Hossein","Degree":90}
+2025-02-14 23:12:55 [INFO] Message added to queue. Message: {"Id":4,"Name":"Helia","Degree":84}
+2025-02-14 23:12:55 [INFO] Message added to queue. Message: {"Id":6,"Name":"Shiva","Degree":88}
+2025-02-14 23:12:55 [INFO] Message added to queue. Message: {"Id":5,"Name":"Parsa","Degree":90}
+2025-02-14 23:12:55 [INFO] Message saved to file. Message: {"Id":4,"Name":"Helia","Degree":84}
+2025-02-14 23:12:55 [INFO] Message sent successfully: {"Id":4,"Name":"Helia","Degree":84}
+2025-02-14 23:12:55 [INFO] Message saved to file. Message: {"Id":6,"Name":"Shiva","Degree":88}
+2025-02-14 23:12:55 [INFO] Message sent successfully: {"Id":6,"Name":"Shiva","Degree":88}
+2025-02-14 23:12:55 [INFO] Message saved to file. Message: {"Id":5,"Name":"Parsa","Degree":90}
+2025-02-14 23:12:55 [INFO] Message sent successfully: {"Id":5,"Name":"Parsa","Degree":90}
+2025-02-14 23:13:00 [INFO] Message added to queue. Message: {"Id":9,"Name":"Hassan","Degree":90}
+2025-02-14 23:13:00 [INFO] Message added to queue. Message: {"Id":8,"Name":"Ali","Degree":84}
+2025-02-14 23:13:00 [INFO] Message added to queue. Message: {"Id":7,"Name":"Mobina","Degree":95}
+2025-02-14 23:13:00 [INFO] Message saved to file. Message: {"Id":9,"Name":"Hassan","Degree":90}
+2025-02-14 23:13:00 [INFO] Message sent successfully: {"Id":9,"Name":"Hassan","Degree":90}
+2025-02-14 23:13:00 [INFO] Message saved to file. Message: {"Id":8,"Name":"Ali","Degree":84}
+2025-02-14 23:13:00 [INFO] Message sent successfully: {"Id":8,"Name":"Ali","Degree":84}
+2025-02-14 23:13:00 [INFO] Message saved to file. Message: {"Id":7,"Name":"Mobina","Degree":95}
+2025-02-14 23:13:00 [INFO] Message sent successfully: {"Id":7,"Name":"Mobina","Degree":95}
+2025-02-14 23:13:02 [INFO] Message deleted from queue. Message: string
+2025-02-14 23:13:02 [INFO] Message deleted from queue. Message: string
+2025-02-14 23:13:02 [INFO] Message deleted from file. Message: string
+2025-02-14 23:13:02 [INFO] Message received: string
+2025-02-14 23:13:02 [INFO] Message deleted from file. Message: string
+2025-02-14 23:13:02 [INFO] Message received: string
+2025-02-14 23:13:05 [INFO] Message added to queue. Message: {"Id":12,"Name":"Fateme","Degree":84}
+2025-02-14 23:13:05 [INFO] Message saved to file. Message: {"Id":12,"Name":"Fateme","Degree":84}
+2025-02-14 23:13:05 [INFO] Message sent successfully: {"Id":12,"Name":"Fateme","Degree":84}
+2025-02-14 23:13:05 [INFO] Message added to queue. Message: {"Id":10,"Name":"Koroush","Degree":88}
+2025-02-14 23:13:05 [INFO] Message saved to file. Message: {"Id":10,"Name":"Koroush","Degree":88}
+2025-02-14 23:13:05 [INFO] Message added to queue. Message: {"Id":11,"Name":"Farhad","Degree":95}
+2025-02-14 23:13:05 [INFO] Message sent successfully: {"Id":10,"Name":"Koroush","Degree":88}
+2025-02-14 23:13:05 [INFO] Message saved to file. Message: {"Id":11,"Name":"Farhad","Degree":95}
+2025-02-14 23:13:05 [INFO] Message sent successfully: {"Id":11,"Name":"Farhad","Degree":95}
+2025-02-14 23:13:10 [INFO] Message added to queue. Message: {"Id":14,"Name":"Mohammad","Degree":88}
+2025-02-14 23:13:10 [INFO] Message added to queue. Message: {"Id":13,"Name":"Maryam","Degree":90}
+2025-02-14 23:13:10 [INFO] Message added to queue. Message: {"Id":15,"Name":"Sina","Degree":95}
+2025-02-14 23:13:10 [INFO] Message saved to file. Message: {"Id":14,"Name":"Mohammad","Degree":88}
+2025-02-14 23:13:10 [INFO] Message sent successfully: {"Id":14,"Name":"Mohammad","Degree":88}
+2025-02-14 23:13:10 [INFO] Message saved to file. Message: {"Id":13,"Name":"Maryam","Degree":90}
+2025-02-14 23:13:10 [INFO] Message sent successfully: {"Id":13,"Name":"Maryam","Degree":90}
+2025-02-14 23:13:10 [INFO] Message saved to file. Message: {"Id":15,"Name":"Sina","Degree":95}
+2025-02-14 23:13:10 [INFO] Message sent successfully: {"Id":15,"Name":"Sina","Degree":95}
+2025-02-14 23:13:15 [INFO] Message added to queue. Message: {"Id":18,"Name":"Mehran","Degree":88}
+2025-02-14 23:13:15 [INFO] Message added to queue. Message: {"Id":16,"Name":"Diana","Degree":84}
+2025-02-14 23:13:15 [INFO] Message added to queue. Message: {"Id":17,"Name":"Mehrdad","Degree":90}
+2025-02-14 23:13:15 [INFO] Message saved to file. Message: {"Id":18,"Name":"Mehran","Degree":88}
+2025-02-14 23:13:15 [INFO] Message sent successfully: {"Id":18,"Name":"Mehran","Degree":88}
+2025-02-14 23:13:15 [INFO] Message saved to file. Message: {"Id":16,"Name":"Diana","Degree":84}
+2025-02-14 23:13:15 [INFO] Message sent successfully: {"Id":16,"Name":"Diana","Degree":84}
+2025-02-14 23:13:15 [INFO] Message saved to file. Message: {"Id":17,"Name":"Mehrdad","Degree":90}
+2025-02-14 23:13:15 [INFO] Message sent successfully: {"Id":17,"Name":"Mehrdad","Degree":90}
+2025-02-14 23:13:20 [INFO] Message added to queue. Message: {"Id":21,"Name":"Hossein","Degree":90}
+2025-02-14 23:13:20 [INFO] Message added to queue. Message: {"Id":20,"Name":"Sarina","Degree":84}
+2025-02-14 23:13:20 [INFO] Message saved to file. Message: {"Id":21,"Name":"Hossein","Degree":90}
+2025-02-14 23:13:20 [INFO] Message added to queue. Message: {"Id":19,"Name":"Aria","Degree":95}
+2025-02-14 23:13:20 [INFO] Message sent successfully: {"Id":21,"Name":"Hossein","Degree":90}
+2025-02-14 23:13:20 [INFO] Message saved to file. Message: {"Id":20,"Name":"Sarina","Degree":84}
+2025-02-14 23:13:20 [INFO] Message sent successfully: {"Id":20,"Name":"Sarina","Degree":84}
+2025-02-14 23:13:20 [INFO] Message saved to file. Message: {"Id":19,"Name":"Aria","Degree":95}
+2025-02-14 23:13:20 [INFO] Message sent successfully: {"Id":19,"Name":"Aria","Degree":95}
+2025-02-14 23:13:26 [INFO] Message added to queue. Message: {"Id":22,"Name":"Sara","Degree":88}
+2025-02-14 23:13:26 [INFO] Message added to queue. Message: {"Id":23,"Name":"Yasi","Degree":95}
+2025-02-14 23:13:26 [INFO] Message added to queue. Message: {"Id":24,"Name":"Helia","Degree":84}
+2025-02-14 23:13:26 [INFO] Message saved to file. Message: {"Id":22,"Name":"Sara","Degree":88}
+2025-02-14 23:13:26 [INFO] Message sent successfully: {"Id":22,"Name":"Sara","Degree":88}
+2025-02-14 23:13:26 [INFO] Message saved to file. Message: {"Id":23,"Name":"Yasi","Degree":95}
+2025-02-14 23:13:26 [INFO] Message sent successfully: {"Id":23,"Name":"Yasi","Degree":95}
+2025-02-14 23:13:26 [INFO] Message saved to file. Message: {"Id":24,"Name":"Helia","Degree":84}
+2025-02-14 23:13:26 [INFO] Message sent successfully: {"Id":24,"Name":"Helia","Degree":84}
+2025-02-14 23:13:31 [INFO] Message added to queue. Message: {"Id":25,"Name":"Parsa","Degree":90}
+2025-02-14 23:13:31 [INFO] Message added to queue. Message: {"Id":26,"Name":"Shiva","Degree":88}
+2025-02-14 23:13:31 [INFO] Message added to queue. Message: {"Id":27,"Name":"Mobina","Degree":95}
+2025-02-14 23:13:31 [INFO] Message saved to file. Message: {"Id":25,"Name":"Parsa","Degree":90}
+2025-02-14 23:13:31 [INFO] Message sent successfully: {"Id":25,"Name":"Parsa","Degree":90}
+2025-02-14 23:13:31 [INFO] Message saved to file. Message: {"Id":26,"Name":"Shiva","Degree":88}
+2025-02-14 23:13:31 [INFO] Message sent successfully: {"Id":26,"Name":"Shiva","Degree":88}
+2025-02-14 23:13:31 [INFO] Message saved to file. Message: {"Id":27,"Name":"Mobina","Degree":95}
+2025-02-14 23:13:31 [INFO] Message sent successfully: {"Id":27,"Name":"Mobina","Degree":95}
+2025-02-14 23:13:36 [INFO] Message added to queue. Message: {"Id":29,"Name":"Hassan","Degree":90}
+2025-02-14 23:13:36 [INFO] Message added to queue. Message: {"Id":30,"Name":"Koroush","Degree":88}
+2025-02-14 23:13:36 [INFO] Message added to queue. Message: {"Id":28,"Name":"Ali","Degree":84}
+2025-02-14 23:13:36 [INFO] Message saved to file. Message: {"Id":29,"Name":"Hassan","Degree":90}
+2025-02-14 23:13:36 [INFO] Message sent successfully: {"Id":29,"Name":"Hassan","Degree":90}
+2025-02-14 23:13:36 [INFO] Message saved to file. Message: {"Id":30,"Name":"Koroush","Degree":88}
+2025-02-14 23:13:36 [INFO] Message sent successfully: {"Id":30,"Name":"Koroush","Degree":88}
+2025-02-14 23:13:36 [INFO] Message saved to file. Message: {"Id":28,"Name":"Ali","Degree":84}
+2025-02-14 23:13:36 [INFO] Message sent successfully: {"Id":28,"Name":"Ali","Degree":84}
+2025-02-14 23:13:41 [INFO] Message added to queue. Message: {"Id":33,"Name":"Maryam","Degree":90}
+2025-02-14 23:13:41 [INFO] Message added to queue. Message: {"Id":31,"Name":"Farhad","Degree":95}
+2025-02-14 23:13:41 [INFO] Message saved to file. Message: {"Id":33,"Name":"Maryam","Degree":90}
+2025-02-14 23:13:41 [INFO] Message sent successfully: {"Id":33,"Name":"Maryam","Degree":90}
+2025-02-14 23:13:41 [INFO] Message added to queue. Message: {"Id":32,"Name":"Fateme","Degree":84}
+2025-02-14 23:13:41 [INFO] Message saved to file. Message: {"Id":31,"Name":"Farhad","Degree":95}
+2025-02-14 23:13:41 [INFO] Message sent successfully: {"Id":31,"Name":"Farhad","Degree":95}
+2025-02-14 23:13:41 [INFO] Message saved to file. Message: {"Id":32,"Name":"Fateme","Degree":84}
+2025-02-14 23:13:41 [INFO] Message sent successfully: {"Id":32,"Name":"Fateme","Degree":84}
+2025-02-14 23:13:46 [INFO] Message added to queue. Message: {"Id":36,"Name":"Diana","Degree":84}
+2025-02-14 23:13:46 [INFO] Message added to queue. Message: {"Id":35,"Name":"Sina","Degree":95}
+2025-02-14 23:13:46 [INFO] Message added to queue. Message: {"Id":34,"Name":"Mohammad","Degree":88}
+2025-02-14 23:13:46 [INFO] Message saved to file. Message: {"Id":36,"Name":"Diana","Degree":84}
+2025-02-14 23:13:46 [INFO] Message sent successfully: {"Id":36,"Name":"Diana","Degree":84}
+2025-02-14 23:13:46 [INFO] Message saved to file. Message: {"Id":35,"Name":"Sina","Degree":95}
+2025-02-14 23:13:46 [INFO] Message sent successfully: {"Id":35,"Name":"Sina","Degree":95}
+2025-02-14 23:13:46 [INFO] Message saved to file. Message: {"Id":34,"Name":"Mohammad","Degree":88}
+2025-02-14 23:13:46 [INFO] Message sent successfully: {"Id":34,"Name":"Mohammad","Degree":88}
+2025-02-14 23:13:51 [INFO] Message added to queue. Message: {"Id":38,"Name":"Mehran","Degree":88}
+2025-02-14 23:13:51 [INFO] Message added to queue. Message: {"Id":39,"Name":"Aria","Degree":95}
+2025-02-14 23:13:51 [INFO] Message added to queue. Message: {"Id":37,"Name":"Mehrdad","Degree":90}
+2025-02-14 23:13:51 [INFO] Message saved to file. Message: {"Id":38,"Name":"Mehran","Degree":88}
+2025-02-14 23:13:51 [INFO] Message sent successfully: {"Id":38,"Name":"Mehran","Degree":88}
+2025-02-14 23:13:51 [INFO] Message saved to file. Message: {"Id":39,"Name":"Aria","Degree":95}
+2025-02-14 23:13:51 [INFO] Message sent successfully: {"Id":39,"Name":"Aria","Degree":95}
+2025-02-14 23:13:51 [INFO] Message saved to file. Message: {"Id":37,"Name":"Mehrdad","Degree":90}
+2025-02-14 23:13:51 [INFO] Message sent successfully: {"Id":37,"Name":"Mehrdad","Degree":90}
+2025-02-14 23:13:56 [INFO] Message added to queue. Message: {"Id":40,"Name":"Sarina","Degree":84}
+2025-02-14 23:13:56 [INFO] Message saved to file. Message: {"Id":40,"Name":"Sarina","Degree":84}
+2025-02-14 23:13:56 [INFO] Message sent successfully: {"Id":40,"Name":"Sarina","Degree":84}
+2025-02-14 23:25:03 [INFO] Messages loaded from file.
+2025-02-14 23:25:03 [INFO] Message deleted from queue. Message: {"Id":3,"Name":"Yasi","Degree":95}
+2025-02-14 23:25:03 [INFO] Message deleted from queue. Message: {"Id":2,"Name":"Sara","Degree":88}
+2025-02-14 23:25:03 [INFO] Message deleted from file. Message: {"Id":2,"Name":"Sara","Degree":88}
+2025-02-14 23:25:03 [INFO] Message received: {"Id":2,"Name":"Sara","Degree":88}
+2025-02-14 23:25:03 [INFO] Message deleted from file. Message: {"Id":3,"Name":"Yasi","Degree":95}
+2025-02-14 23:25:03 [INFO] Message received: {"Id":3,"Name":"Yasi","Degree":95}
+2025-02-14 23:25:06 [INFO] Message deleted from queue. Message: {"Id":4,"Name":"Helia","Degree":84}
+2025-02-14 23:25:06 [INFO] Message deleted from queue. Message: {"Id":1,"Name":"Hossein","Degree":90}
+2025-02-14 23:25:06 [INFO] Message deleted from file. Message: {"Id":4,"Name":"Helia","Degree":84}
+2025-02-14 23:25:06 [INFO] Message received: {"Id":4,"Name":"Helia","Degree":84}
+2025-02-14 23:25:06 [INFO] Message deleted from file. Message: {"Id":1,"Name":"Hossein","Degree":90}
+2025-02-14 23:25:06 [INFO] Message received: {"Id":1,"Name":"Hossein","Degree":90}
+2025-02-14 23:25:09 [INFO] Message deleted from queue. Message: {"Id":6,"Name":"Shiva","Degree":88}
+2025-02-14 23:25:09 [INFO] Message deleted from queue. Message: {"Id":5,"Name":"Parsa","Degree":90}
+2025-02-14 23:25:09 [INFO] Message deleted from file. Message: {"Id":6,"Name":"Shiva","Degree":88}
+2025-02-14 23:25:09 [INFO] Message received: {"Id":6,"Name":"Shiva","Degree":88}
+2025-02-14 23:25:09 [INFO] Message deleted from file. Message: {"Id":5,"Name":"Parsa","Degree":90}
+2025-02-14 23:25:09 [INFO] Message received: {"Id":5,"Name":"Parsa","Degree":90}
+2025-02-14 23:25:12 [INFO] Message deleted from queue. Message: {"Id":7,"Name":"Mobina","Degree":95}
+2025-02-14 23:25:12 [INFO] Message deleted from queue. Message: {"Id":9,"Name":"Hassan","Degree":90}
+2025-02-14 23:25:12 [INFO] Message deleted from file. Message: {"Id":7,"Name":"Mobina","Degree":95}
+2025-02-14 23:25:12 [INFO] Message received: {"Id":7,"Name":"Mobina","Degree":95}
+2025-02-14 23:25:13 [INFO] Message deleted from file. Message: {"Id":9,"Name":"Hassan","Degree":90}
+2025-02-14 23:25:13 [INFO] Message received: {"Id":9,"Name":"Hassan","Degree":90}
+2025-02-14 23:25:16 [INFO] Message deleted from queue. Message: {"Id":8,"Name":"Ali","Degree":84}
+2025-02-14 23:25:16 [INFO] Message deleted from queue. Message: {"Id":12,"Name":"Fateme","Degree":84}
+2025-02-14 23:25:16 [INFO] Message deleted from file. Message: {"Id":8,"Name":"Ali","Degree":84}
+2025-02-14 23:25:16 [INFO] Message received: {"Id":8,"Name":"Ali","Degree":84}
+2025-02-14 23:25:16 [INFO] Message deleted from file. Message: {"Id":12,"Name":"Fateme","Degree":84}
+2025-02-14 23:25:16 [INFO] Message received: {"Id":12,"Name":"Fateme","Degree":84}
+2025-02-14 23:25:19 [INFO] Message deleted from queue. Message: {"Id":11,"Name":"Farhad","Degree":95}
+2025-02-14 23:25:19 [INFO] Message deleted from queue. Message: {"Id":10,"Name":"Koroush","Degree":88}
+2025-02-14 23:25:19 [INFO] Message deleted from file. Message: {"Id":11,"Name":"Farhad","Degree":95}
+2025-02-14 23:25:19 [INFO] Message received: {"Id":11,"Name":"Farhad","Degree":95}
+2025-02-14 23:25:19 [INFO] Message deleted from file. Message: {"Id":10,"Name":"Koroush","Degree":88}
+2025-02-14 23:25:19 [INFO] Message received: {"Id":10,"Name":"Koroush","Degree":88}
+2025-02-14 23:25:22 [INFO] Message deleted from queue. Message: {"Id":14,"Name":"Mohammad","Degree":88}
+2025-02-14 23:25:22 [INFO] Message deleted from queue. Message: {"Id":13,"Name":"Maryam","Degree":90}
+2025-02-14 23:25:22 [INFO] Message deleted from file. Message: {"Id":14,"Name":"Mohammad","Degree":88}
+2025-02-14 23:25:22 [INFO] Message received: {"Id":14,"Name":"Mohammad","Degree":88}
+2025-02-14 23:25:22 [INFO] Message deleted from file. Message: {"Id":13,"Name":"Maryam","Degree":90}
+2025-02-14 23:25:22 [INFO] Message received: {"Id":13,"Name":"Maryam","Degree":90}
+2025-02-14 23:25:25 [INFO] Message deleted from queue. Message: {"Id":18,"Name":"Mehran","Degree":88}
+2025-02-14 23:25:25 [INFO] Message deleted from queue. Message: {"Id":15,"Name":"Sina","Degree":95}
+2025-02-14 23:25:25 [INFO] Message deleted from file. Message: {"Id":18,"Name":"Mehran","Degree":88}
+2025-02-14 23:25:25 [INFO] Message received: {"Id":18,"Name":"Mehran","Degree":88}
+2025-02-14 23:25:25 [INFO] Message deleted from file. Message: {"Id":15,"Name":"Sina","Degree":95}
+2025-02-14 23:25:25 [INFO] Message received: {"Id":15,"Name":"Sina","Degree":95}
+2025-02-14 23:25:28 [INFO] Message deleted from queue. Message: {"Id":16,"Name":"Diana","Degree":84}
+2025-02-14 23:25:28 [INFO] Message deleted from queue. Message: {"Id":17,"Name":"Mehrdad","Degree":90}
+2025-02-14 23:25:28 [INFO] Message deleted from file. Message: {"Id":16,"Name":"Diana","Degree":84}
+2025-02-14 23:25:28 [INFO] Message received: {"Id":16,"Name":"Diana","Degree":84}
+2025-02-14 23:25:28 [INFO] Message deleted from file. Message: {"Id":17,"Name":"Mehrdad","Degree":90}
+2025-02-14 23:25:28 [INFO] Message received: {"Id":17,"Name":"Mehrdad","Degree":90}
+2025-02-14 23:25:31 [INFO] Message deleted from queue. Message: {"Id":20,"Name":"Sarina","Degree":84}
+2025-02-14 23:25:31 [INFO] Message deleted from queue. Message: {"Id":21,"Name":"Hossein","Degree":90}
+2025-02-14 23:25:31 [INFO] Message deleted from file. Message: {"Id":20,"Name":"Sarina","Degree":84}
+2025-02-14 23:25:31 [INFO] Message received: {"Id":20,"Name":"Sarina","Degree":84}
+2025-02-14 23:25:31 [INFO] Message deleted from file. Message: {"Id":21,"Name":"Hossein","Degree":90}
+2025-02-14 23:25:31 [INFO] Message received: {"Id":21,"Name":"Hossein","Degree":90}
+2025-02-14 23:25:34 [INFO] Message deleted from queue. Message: {"Id":22,"Name":"Sara","Degree":88}
+2025-02-14 23:25:34 [INFO] Message deleted from queue. Message: {"Id":19,"Name":"Aria","Degree":95}
+2025-02-14 23:25:34 [INFO] Message deleted from file. Message: {"Id":22,"Name":"Sara","Degree":88}
+2025-02-14 23:25:34 [INFO] Message received: {"Id":22,"Name":"Sara","Degree":88}
+2025-02-14 23:25:34 [INFO] Message deleted from file. Message: {"Id":19,"Name":"Aria","Degree":95}
+2025-02-14 23:25:34 [INFO] Message received: {"Id":19,"Name":"Aria","Degree":95}
+2025-02-14 23:25:37 [INFO] Message deleted from queue. Message: {"Id":23,"Name":"Yasi","Degree":95}
+2025-02-14 23:25:37 [INFO] Message deleted from queue. Message: {"Id":24,"Name":"Helia","Degree":84}
+2025-02-14 23:25:37 [INFO] Message deleted from file. Message: {"Id":23,"Name":"Yasi","Degree":95}
+2025-02-14 23:25:37 [INFO] Message received: {"Id":23,"Name":"Yasi","Degree":95}
+2025-02-14 23:25:37 [INFO] Message deleted from file. Message: {"Id":24,"Name":"Helia","Degree":84}
+2025-02-14 23:25:37 [INFO] Message received: {"Id":24,"Name":"Helia","Degree":84}
+2025-02-14 23:25:40 [INFO] Message deleted from queue. Message: {"Id":25,"Name":"Parsa","Degree":90}
+2025-02-14 23:25:40 [INFO] Message deleted from queue. Message: {"Id":26,"Name":"Shiva","Degree":88}
+2025-02-14 23:25:40 [INFO] Message deleted from file. Message: {"Id":25,"Name":"Parsa","Degree":90}
+2025-02-14 23:25:40 [INFO] Message received: {"Id":25,"Name":"Parsa","Degree":90}
+2025-02-14 23:25:40 [INFO] Message deleted from file. Message: {"Id":26,"Name":"Shiva","Degree":88}
+2025-02-14 23:25:40 [INFO] Message received: {"Id":26,"Name":"Shiva","Degree":88}
+2025-02-14 23:25:43 [INFO] Message deleted from queue. Message: {"Id":27,"Name":"Mobina","Degree":95}
+2025-02-14 23:25:43 [INFO] Message deleted from queue. Message: {"Id":29,"Name":"Hassan","Degree":90}
+2025-02-14 23:25:43 [INFO] Message deleted from file. Message: {"Id":27,"Name":"Mobina","Degree":95}
+2025-02-14 23:25:43 [INFO] Message received: {"Id":27,"Name":"Mobina","Degree":95}
+2025-02-14 23:25:43 [INFO] Message deleted from file. Message: {"Id":29,"Name":"Hassan","Degree":90}
+2025-02-14 23:25:43 [INFO] Message received: {"Id":29,"Name":"Hassan","Degree":90}
+2025-02-14 23:25:46 [INFO] Message deleted from queue. Message: {"Id":30,"Name":"Koroush","Degree":88}
+2025-02-14 23:25:46 [INFO] Message deleted from queue. Message: {"Id":28,"Name":"Ali","Degree":84}
+2025-02-14 23:25:46 [INFO] Message deleted from file. Message: {"Id":30,"Name":"Koroush","Degree":88}
+2025-02-14 23:25:46 [INFO] Message received: {"Id":30,"Name":"Koroush","Degree":88}
+2025-02-14 23:25:46 [INFO] Message deleted from file. Message: {"Id":28,"Name":"Ali","Degree":84}
+2025-02-14 23:25:46 [INFO] Message received: {"Id":28,"Name":"Ali","Degree":84}
+2025-02-14 23:25:49 [INFO] Message deleted from queue. Message: {"Id":33,"Name":"Maryam","Degree":90}
+2025-02-14 23:25:49 [INFO] Message deleted from queue. Message: {"Id":31,"Name":"Farhad","Degree":95}
+2025-02-14 23:25:49 [INFO] Message deleted from file. Message: {"Id":33,"Name":"Maryam","Degree":90}
+2025-02-14 23:25:49 [INFO] Message received: {"Id":33,"Name":"Maryam","Degree":90}
+2025-02-14 23:25:49 [INFO] Message deleted from file. Message: {"Id":31,"Name":"Farhad","Degree":95}
+2025-02-14 23:25:49 [INFO] Message received: {"Id":31,"Name":"Farhad","Degree":95}
+2025-02-14 23:25:52 [INFO] Message deleted from queue. Message: {"Id":32,"Name":"Fateme","Degree":84}
+2025-02-14 23:25:52 [INFO] Message deleted from queue. Message: {"Id":36,"Name":"Diana","Degree":84}
+2025-02-14 23:25:52 [INFO] Message deleted from file. Message: {"Id":32,"Name":"Fateme","Degree":84}
+2025-02-14 23:25:52 [INFO] Message received: {"Id":32,"Name":"Fateme","Degree":84}
+2025-02-14 23:25:52 [INFO] Message deleted from file. Message: {"Id":36,"Name":"Diana","Degree":84}
+2025-02-14 23:25:52 [INFO] Message received: {"Id":36,"Name":"Diana","Degree":84}
+2025-02-14 23:25:55 [INFO] Message deleted from queue. Message: {"Id":35,"Name":"Sina","Degree":95}
+2025-02-14 23:25:55 [INFO] Message deleted from queue. Message: {"Id":34,"Name":"Mohammad","Degree":88}
+2025-02-14 23:25:55 [INFO] Message deleted from file. Message: {"Id":35,"Name":"Sina","Degree":95}
+2025-02-14 23:25:55 [INFO] Message received: {"Id":35,"Name":"Sina","Degree":95}
+2025-02-14 23:25:55 [INFO] Message deleted from file. Message: {"Id":34,"Name":"Mohammad","Degree":88}
+2025-02-14 23:25:55 [INFO] Message received: {"Id":34,"Name":"Mohammad","Degree":88}
+2025-02-14 23:25:58 [INFO] Message deleted from queue. Message: {"Id":38,"Name":"Mehran","Degree":88}
+2025-02-14 23:25:58 [INFO] Message deleted from queue. Message: {"Id":39,"Name":"Aria","Degree":95}
+2025-02-14 23:25:58 [INFO] Message deleted from file. Message: {"Id":38,"Name":"Mehran","Degree":88}
+2025-02-14 23:25:58 [INFO] Message received: {"Id":38,"Name":"Mehran","Degree":88}
+2025-02-14 23:25:58 [INFO] Message deleted from file. Message: {"Id":39,"Name":"Aria","Degree":95}
+2025-02-14 23:25:58 [INFO] Message received: {"Id":39,"Name":"Aria","Degree":95}
+2025-02-14 23:26:01 [INFO] Message deleted from queue. Message: {"Id":37,"Name":"Mehrdad","Degree":90}
+2025-02-14 23:26:01 [INFO] Message deleted from queue. Message: {"Id":40,"Name":"Sarina","Degree":84}
+2025-02-14 23:26:01 [INFO] Message deleted from file. Message: {"Id":37,"Name":"Mehrdad","Degree":90}
+2025-02-14 23:26:01 [INFO] Message received: {"Id":37,"Name":"Mehrdad","Degree":90}
+2025-02-14 23:26:01 [INFO] Message deleted from file. Message: {"Id":40,"Name":"Sarina","Degree":84}
+2025-02-14 23:26:01 [INFO] Message received: {"Id":40,"Name":"Sarina","Degree":84}
+2025-02-14 23:26:04 [WARNING] No messages in queue!
+2025-02-14 23:26:04 [WARNING] No messages in queue!
+2025-02-14 23:26:04 [WARNING] No messages available to receive.
+2025-02-14 23:26:04 [WARNING] No messages available to receive.
+2025-02-14 23:26:07 [WARNING] No messages in queue!
+2025-02-14 23:26:07 [WARNING] No messages in queue!
+2025-02-14 23:26:07 [WARNING] No messages available to receive.
+2025-02-14 23:26:07 [WARNING] No messages available to receive.
+2025-02-14 23:26:10 [WARNING] No messages in queue!
+2025-02-14 23:26:10 [WARNING] No messages in queue!
+2025-02-14 23:26:10 [WARNING] No messages available to receive.
+2025-02-14 23:26:10 [WARNING] No messages available to receive.
+2025-02-14 23:26:13 [WARNING] No messages in queue!
+2025-02-14 23:26:13 [WARNING] No messages in queue!
+2025-02-14 23:26:13 [WARNING] No messages available to receive.
+2025-02-14 23:26:13 [WARNING] No messages available to receive.
+2025-02-14 23:26:16 [WARNING] No messages in queue!
+2025-02-14 23:26:16 [WARNING] No messages available to receive.
+2025-02-14 23:26:16 [WARNING] No messages in queue!
+2025-02-14 23:26:16 [WARNING] No messages available to receive.
+2025-02-14 23:26:20 [WARNING] No messages in queue!
+2025-02-14 23:26:20 [WARNING] No messages in queue!
+2025-02-14 23:26:20 [WARNING] No messages available to receive.
+2025-02-14 23:26:20 [WARNING] No messages available to receive.
